@@ -1,0 +1,134 @@
+#title
+{
+  background-color: #006bb3;
+}
+h1
+{
+  font-family: "Montserrat";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+h2
+{
+  font-family: "Montserrat";
+  font-size: 2rem;
+  line-height: 1.5;
+}
+h3
+{
+  font-family: "Montserrat";
+}
+body
+{
+  font-family: "Montserrat-Light";
+}
+em
+{
+  font-family: "Ubuntu";
+}
+p
+{
+  color: #8f8f8f;
+}
+.container-fluid
+{
+  padding: 3% 15%;
+}
+.btn
+{
+  margin: 1.5% 1%;
+}
+
+/* Images */
+.title-img
+{
+  width: 60%;
+  margin: 0 0 0 50px;
+}
+
+/* Nav Bar */
+
+.navbar
+{
+  padding: 0 0 4.5rem;
+}
+
+.nav-brand
+{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+}
+
+.nav-item
+{
+  padding: 0 18px;
+}
+
+.nav-link
+{
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+}
+
+/* Features */
+#features
+{
+  padding: 7% 15%;
+}
+.feature-box
+{
+  text-align: center;
+  font-family: "Ubuntu";
+}
+
+/* Teshtimonials */
+#testimonials
+{
+  text-align: center;
+  background-color: #db512e;
+}
+.testimonial-image
+{
+  width: 10%;
+  margin: 20px;
+}
+#press
+{
+  background-color: #db512e;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-logo
+{
+  margin: 20px 20px 20px;
+}
+.carousel-item
+{
+    padding: 7% 15%;
+}
+/* Pricing */
+
+#pricing
+{
+  padding: 100px;
+  text-align: center;
+}
+.pricing-column
+{
+  padding: 3% 2%;
+}
+/* Footer */
+
+#cta
+{
+  background-color: #006bb3;
+  color: #fff;
+  padding: 2% 2%;
+  text-align: center;
+}
+/* Footer */
+#footer
+{
+  padding: 2% 2%;
+  text-align: center;
+}
